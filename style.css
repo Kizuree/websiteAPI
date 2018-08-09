@@ -1,0 +1,14 @@
+.buttonpush{
+    border: 7px solid white;
+    background-color: cadetblue ;
+}
+
+body{
+    background-color: bisque;
+}
+
+#maintitle{
+    font-family: 'Do Hyeon', sans-serif;
+    text-align: center;
+
+}
